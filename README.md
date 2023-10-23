@@ -27,9 +27,9 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 | 1.  | 23.10. |  9:30-12:45 | Einführung, BITS |
 | 2.  |  6.11. |  9:30-12:45 | XSLT             |
 | 3.  | 13.11. |  9:30-12:45 | XSLT             |
-| 4.  | 20.11. |  9:30-12:45 | Schematron       |
+| 4.  | 20.11. |  9:30-12:45 | PrintCSS       |
 | 5.  | 27.11. |  9:30-12:45 | PrintCSS         |
-| 6.  |  4.12. |  9:30-12:45 | PrintCSS         |
+| 6.  |  4.12. |  9:30-12:45 | Schematron       |
 | 7.  | 18.12. |  9:30-12:45 | Prüfung          |
 
 ## Aufgaben
