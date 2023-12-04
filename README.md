@@ -111,5 +111,6 @@ Marko Hedler, Nico Kutscherauer: Schematron: effiziente XML Business Rules für 
 
 * [Andreas Jung: print css rocks](https://print-css.rocks/)
 * [Rachel Andrew: A Guide To The State Of Print Stylesheets In 2018](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
-* [Rachel Andrew : Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
+* [Rachel Andrew: Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
+* [Antenna House: Introduction to CSS for Paged Media](https://www.antennahouse.com/hubfs/PDFS/CSS%20for%20Paged%20Media/CSS-Print-en-2019-02-15.pdf)
 
